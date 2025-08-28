@@ -10,3 +10,5 @@ Due:			February 13, 2025
 
 Honesty Statement:	I have done this assignment completely on my own. I have not copied it, nor have I given my solution to anyone else. 
 			I understand that if I am involved in plagiarism or cheating I will receive the penalty specified in the FIU regulations.
+
+Project Description: This was an assigment for TCN5440. It's purpose was to display different basic functions of the C Programming language, such as arithmetic and functions. It also has a function for finding substrings within a given word.
